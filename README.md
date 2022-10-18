@@ -76,7 +76,7 @@ int main(void)
 	char *string;
 	
 	num = 98;
-	string = "Hello, BEST SChool!"
+	string = "Hello, BEST School!"
 	_printf("%s is %i.\n", string, num);
 	return (0);
 }
