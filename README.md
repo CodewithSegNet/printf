@@ -87,5 +87,6 @@ linux>$  ./print_program
 Hello, BEST School is 98.
 linux>$
 ```
-## Contributor/Partner
-- [Florence Idowu](https://github.com/)
+## Contributor
+* [Olusegun Emmanuel}(https://github.com/CodewithSegNet/printf/)
+- [Florence Idowu](https://github.com/FlorenceIdowu/)
