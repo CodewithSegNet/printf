@@ -88,5 +88,5 @@ Hello, BEST School is 98.
 linux>$
 ```
 ## Contributor
-* [Olusegun Emmanuel}(https://github.com/CodewithSegNet/printf/)
+- [Olusegun Emmanuel](https://github.com/CodewithSegNet/printf/)
 - [Florence Idowu](https://github.com/FlorenceIdowu/)
